@@ -1,6 +1,5 @@
-# Crime-Records-Management-System developed using Java , JDBC and java Swings.
+# Crime-Records-Management-System developed using Java , JDBC and Java Swings.
 
-screenshots
 ![cr1](https://github.com/MenatiVasudevaReddy/Crime-Records-Management-System/assets/101622707/1dba5316-795d-4321-848b-d288aeaccc41)
 ![crime01](https://github.com/MenatiVasudevaReddy/Crime-Records-Management-System/assets/101622707/a19ab88d-a7a7-4b6c-80fd-9928c555e841)
 ![crime1](https://github.com/MenatiVasudevaReddy/Crime-Records-Management-System/assets/101622707/de8ef2f6-337a-48b5-a4c2-6ced2e40910c)
